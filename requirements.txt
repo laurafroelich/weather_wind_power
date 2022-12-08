@@ -6,7 +6,7 @@ beautifulsoup4==4.7.1
 bleach==3.3.0
 botocore==1.5.45
 Cartopy==0.17.0
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 cycler==0.10.0
